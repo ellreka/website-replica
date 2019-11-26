@@ -14,7 +14,8 @@
           </div>
         </div>
         <p class="mv-Box_priceText">
-          <span>¥ 92,673</span><span>月あたり</span>
+          <span>¥ 92,673</span>
+          <span>月あたり</span>
         </p>
         <ButtonStart>はじめる</ButtonStart>
       </div>

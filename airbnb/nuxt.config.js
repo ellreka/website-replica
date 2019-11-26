@@ -12,6 +12,9 @@ export default {
       }
     }
   },
+  router: {
+    base: '/website-replica/airbnb/dist/'
+  },
   srcDir: 'src/',
   css: ['@/assets/scss/base.scss']
 }
